@@ -1,4 +1,4 @@
-Nguyen Xuan Truc - Software Developer
+Nguyen Xuan Truc 
 --------------------------------------------------
 
 Hi there, I am Truc studying Computer Science & Economics at DePauw University. Welcome to my GitHub! 
