@@ -7,5 +7,6 @@ Hi there, I am Truc studying Computer Science & Economics at DePauw University. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
 
 
